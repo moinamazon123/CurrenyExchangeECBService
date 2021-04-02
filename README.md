@@ -1,6 +1,6 @@
 # CurrenyExchangeECBService
 
-1: Place the history data json file and load init data.
+1: Place the history data json file and load init data. ALL THIS DATA ARE FROM EUROPEAN CENTRAL BANK(ECB) SITE.
 2: It will insert curreny record in the tables.
 3: Access the services:
 
